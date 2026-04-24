@@ -69,7 +69,7 @@ It provides insights into how students adapted to remote learning and managed st
 ---
 
 ## 📸 Dashboard Preview
-![Impact of Covid-19 Dashboard](Covid19.png)
+![Impact of Covid-19 Dashboard](Covid-19.png)
 
 ---
 
